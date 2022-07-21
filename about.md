@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: Bedroom Dark
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hello. This blog for documentation on my programming journey, running on jekyll, hosting on github and using the Klisé theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+My name is <a href="https://linkedin.com/in/jsa-alencar" target="_blank">Landin</a>, I'm just another programmer. Student of the Information Systems course at the <a href="https://ufpi.br" target="_blank">Federal University of Piauí</a>, I am interested in the areas of software development, systems administrator and cyber security. 💚 I love listening to music, reading novels and manga, watching movies and studying.
 
-If you have a question about him or else, just send a letter to him.
+If you have a question or doubt, just send us an email.
+You can [report](http://github.com/sleepy-c/portfolio/issues/new) if there is an broken link(s) or somethings else.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
+**Link's ✨**
 
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+- [E-mail](mailton:land19r@gmail.com)
+- [Github](https://github.com/sleepy-c)
+- [Gitlab](https://gitlab.com/sleepy-c)
