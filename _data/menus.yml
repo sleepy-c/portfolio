@@ -2,8 +2,12 @@
   url: /
   external: false
 
-- title: archive
-  url: /archive/
+- title: project
+  url: /project/
+  external: false
+
+- title: skill
+  url: /skill/
   external: false
 
 - title: about
